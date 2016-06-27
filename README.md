@@ -1,4 +1,4 @@
-# LearnGulp
+# Learning Gulp
 ** Learning Gulp with basic tasks
 
 1. Gulp is a build tool similar to grunt
